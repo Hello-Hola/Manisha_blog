@@ -1,5 +1,5 @@
 ---
-title: Mark Dinn
+title: Manisha Nayak
 image: /images/authors/mark-dinn.jpg
 description: this is meta description
 social:
