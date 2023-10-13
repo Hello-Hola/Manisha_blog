@@ -1,11 +1,11 @@
 ---
 title: "Eco-Friendly Living: Small Steps, Big Impact in the Fight Against Climate Change"
 description: "meta description"
-image: "/images/posts/Effect.jpg"
+image: "/images/posts/05.jpg"
 date: 2021-01-25T16:56:47+06:00
 draft: false
-authors: ["John Doe"]
-tags: ["Food", "Gold"]
+authors: ["Manisha Nayak"]
+tags: ["ecosystem", "Climate"]
 categories: ["Climate"]
 ---
 

@@ -2,14 +2,14 @@
 title: "Global Warming: Why It's a Big Deal"
 description: "imagine our planet as a big, cozy blanket. Normally, this blanket keeps us warm by trapping some heat from the sun and keeping it close to the Earth. "
 date: 2023-08-04T05:00:00Z
-image: "/images/posts/global_warming.jpg"
+image: "/images/posts/01.jpg"
 categories: ["Climate"]
 authors: ["Asif suhail khan"]
-tags: ["diy", "toy"]
+tags: ["Heat", "Climate"]
 draft: false
 ---
 
-**Hey there! So, you know how we've been hearing a lot about global warming or climate change lately? Well, it's kind of a big deal, and I wanted to chat with you about why it's so important.**
+Hey there! So, you know how we've been hearing a lot about global warming or climate change lately? Well, it's kind of a big deal, and I wanted to chat with you about why it's so important.
 
 Okay, imagine our planet as a big, cozy blanket. Normally, this blanket keeps us warm by trapping some heat from the sun and keeping it close to the Earth. It's like nature's way of giving us the perfect temperature. But here's the twist: we've been messing with this blanket, and it's starting to get too warm.
 

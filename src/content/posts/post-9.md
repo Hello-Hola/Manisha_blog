@@ -2,10 +2,10 @@
 title: "The Power of Social Media Integration: Boosting Your Online Presence"
 description: "meta description"
 date: 2024-04-04T05:00:00Z
-image: "/images/posts/01.jpg"
+image: "/images/posts/09.jpg"
 categories: ["Marketing"]
 authors: ["Manisha Nayak"]
-tags: ["diy", "toy"]
+tags: ["Social-Media"]
 draft: false
 ---
 

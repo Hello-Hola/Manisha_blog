@@ -2,10 +2,10 @@
 title: "Chandrayaan-3 India's Next Leap in Lunar Exploration"
 description: "meta description"
 date: 2024-04-04T05:00:00Z
-image: "/images/posts/01.jpg"
+image: "/images/posts/08.jpg"
 categories: ["Space"]
 authors: ["Manisha Nayak"]
-tags: ["diy", "toy"]
+tags: []
 draft: false
 ---
 

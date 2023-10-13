@@ -2,10 +2,10 @@
 title: The Impact on Climate Change on Agriculture Challenges and Solutions
 description: "meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/posts/aggriculture.jpg"
+image: "/images/posts/02.jpg"
 categories: ["Climate"]
 authors: ["Manisa Nayak"]
-tags: ["diy", "toy"]
+tags: ["Agriculture", "Climate"]
 draft: false
 ---
 

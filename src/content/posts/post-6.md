@@ -5,7 +5,7 @@ image: "/images/posts/06.jpg"
 date: 2021-02-03T16:56:47+06:00
 draft: false
 authors: ["Manisha Nayak"]
-tags: ["Alarm", "Clock"]
+tags: ["ecosystem"]
 categories: ["Climate"]
 ---
 

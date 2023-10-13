@@ -2,10 +2,10 @@
 title: Climate Change and Its Effects on Global Health A Growing Concern
 description: "meta description"
 date: 2022-04-02T06:00:00+00:00
-image: "/images/posts/health.jpg"
+image: "/images/posts/03.jpg"
 categories: ["Climate"]
 authors: ["Manisha Nayak"]
-tags: ["diy", "toy"]
+tags: ["Climate", "Health"]
 draft: false
 ---
 

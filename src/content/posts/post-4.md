@@ -1,11 +1,11 @@
 ---
 title: "Title: Renewable Energy: A Promising Solution to Climate Change"
 description: "meta description"
-image: "/images/posts/solar.jpg"
+image: "/images/posts/04.jpg"
 date: 2021-02-02T16:56:47+06:00
 draft: false
-authors: ["Mark Dinn"]
-tags: ["Balloon", "Gas"]
+authors: ["Manisha Nayak"]
+tags: ["Climate", "Energy"]
 categories: ["Climate"]
 ---
 

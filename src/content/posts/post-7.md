@@ -2,10 +2,10 @@
 title: "The Rising Tide of Pollution"
 description: "meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/posts/01.jpg"
+image: "/images/posts/07.jpg"
 categories: ["Climate"]
 authors: ["Manisha Nayak"]
-tags: ["diy", "toy"]
+tags: []
 draft: false
 ---
 
