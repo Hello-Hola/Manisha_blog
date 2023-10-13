@@ -4,7 +4,7 @@ title: "Mastering Online Etiquette: Navigating the Digital World with Grace and 
 description: "Navigate the digital world with grace and respect by mastering online etiquette. Learn the importance of courteous online behavior, its impact on communication and professional relationships, and common guidelines to ensure a harmonious online environment. Foster positive connections and a safer online space with proper netiquette."
 
 date: 2023-10-13T05:00:00Z
-image: "/images/posts/02.jpg"
+image: "/images/posts/14.jpg"
 categories: ["Social-Media"]
 authors: ["Manisha Nayak"]
 tags: ["Chandrayaan"]

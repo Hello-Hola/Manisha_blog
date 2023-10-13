@@ -2,7 +2,7 @@
 title: "Empowering Creativity: The DIY Tutorial Revolution"
 description: "Unleash your creativity with the DIY tutorial revolution. Discover how DIY tutorials empower you to transform your home, explore crafts and hobbies, dive into technology, and enhance health and wellness. Learn new skills, save money, and join a vibrant community of makers and innovators. Start your creative journey today!"
 date: 2023-13-04T05:00:00Z
-image: "/images/posts/02.jpg"
+image: "/images/posts/12.jpg"
 categories: ["Creativity"]
 authors: ["Manisha Nayak"]
 tags: ["DIY"]

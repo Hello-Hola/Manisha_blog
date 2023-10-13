@@ -3,7 +3,7 @@
 title: "Mastering Time Management Your Key to Productivity and Work-Life Balance"
 description: "Unleash your creativity with the DIY tutorial revolution. Discover how DIY tutorials empower you to transform your home, explore crafts and hobbies, dive into technology, and enhance health and wellness. Learn new skills, save money, and join a vibrant community of makers and innovators. Start your creative journey today!"
 date: 2024-04-04T05:00:00Z
-image: "/images/posts/02.jpg"
+image: "/images/posts/13.jpg"
 categories: ["Time Management"]
 authors: ["Manisha Nayak"]
 tags: ["Time Management"]
