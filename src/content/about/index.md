@@ -1,5 +1,5 @@
 ---
-title: "We're Manisha Nayak & Asif Suhail Khan, and we're just copywriters"
+title: "We're Manisha Nayak & Asif Suhail Khan, and we're copywriters"
 meta_title: "About"
 image: "/images/author.png"
 draft: false
