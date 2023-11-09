@@ -8,9 +8,7 @@ social:
   instagram: https://www.instagram.com/
 ---
 
-Hai
-
-### Unveiling the World Through Words: Manisha Nayak
+Unveiling the World Through Words of Manisha Nayak
 
 In a world painted with words, Manisha Nayak emerges as a storyteller, an explorer, and a wordsmith, crafting narratives that illuminate, inspire, and captivate. As a female article writer, Manisha brings her distinctive voice and perspective to the art of writing.
 
