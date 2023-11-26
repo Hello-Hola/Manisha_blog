@@ -4,10 +4,10 @@ title: "Curiosity Unleashed: Robotics in Manufacturing and the Automated Symphon
 description: "Embark on a captivating journey into the future of manufacturing with our exploration of 'Robotics in Manufacturing: Automating the Future of Industry.' Discover the curious evolution of robotics, where machines become collaborators, factories turn into smart ecosystems, and innovation reshapes the very fabric of industry. Join us in unraveling the symphony of automation, precision, and ethical considerations that shape tomorrow's factories. The curious minds behind the evolution of robotics invite you to witness a revolution that goes beyond efficiency — it's a transformation of how we create, build, and define the future of manufacturing."
 
 date: 2023-10-13T05:00:00Z
-image: "/images/posts/16.jpg"
-categories: ["Parenting"]
+image: "/images/posts/20.jpg"
+categories: ["artificial intelligence"]
 authors: ["Manisha Nayak"]
-tags: ["Parenting"]
+tags: ["Robotics", "AI"]
 draft: false
 ---
 
