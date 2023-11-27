@@ -5,11 +5,12 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "200",
+    "logo": "/images/manisha.svg",
+    "logo_width": "250",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "Manisha Blog"
   },
+
 
   "settings": {
     "pagination": 5,
@@ -17,19 +18,19 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Manisha Nayak",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Manisha Nyak Portfolio"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2023 a theme by Manisha Nayak"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
-    "email": "asifsuhailkhan1@gmail.com",
-    "phone": "+91 98899 18105"
+    "address": "Bhopal (MP)",
+    "email": "manishanayak581999@gmail.com",
+    "phone": "+91 87700 91622"
   }
 }
