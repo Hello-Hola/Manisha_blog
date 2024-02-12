@@ -7,7 +7,7 @@ date: 2023-10-13T05:00:00Z
 image: "/images/posts/19.jpg"
 draft: false
 categories: ["artificial intelligence"]
-authors: ["Manisha Nayak"]
+authors: ["Asif Suhail Khan"]
 tags: ["Healthcare", "AI"]
 ---
 

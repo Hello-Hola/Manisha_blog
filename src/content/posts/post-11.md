@@ -4,12 +4,13 @@ description: "meta description"
 date: 2024-04-04T05:00:00Z
 image: "/images/posts/11.jpg"
 categories: ["Space"]
-authors: ["Manisha Nayak"]
+authors: ["Asif Suhail Khan"]
 tags: ["Chandrayaan"]
 draft: false
 ---
 
 In the grand tapestry of space exploration, Chandrayaan-2 stands as a testament to India's unwavering commitment to scientific discovery and technological advancement. Launched by the Indian Space Research Organisation (ISRO) on July 22, 2019, Chandrayaan-2 marked a significant leap forward in India's space exploration efforts. This article delves into the intricacies of Chandrayaan-2, its objectives, challenges faced, and the invaluable scientific insights it has provided to humanity.
+
 
 **Mission Objectives**
 

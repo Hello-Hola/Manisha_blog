@@ -4,7 +4,7 @@ description: "Unleash your creativity with the DIY tutorial revolution. Discover
 date: 2023-13-04T05:00:00Z
 image: "/images/posts/12.jpg"
 categories: ["Creativity"]
-authors: ["Manisha Nayak"]
+authors: ["Asif Suhail Khan"]
 tags: ["DIY"]
 draft: false
 ---
