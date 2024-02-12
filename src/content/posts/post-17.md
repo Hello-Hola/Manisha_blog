@@ -6,7 +6,7 @@ description: "Explore the world of positive parenting with our comprehensive gui
 date: 2023-10-13T05:00:00Z
 image: "/images/posts/02.jpg"
 categories: ["Relationship"]
-authors: ["Asif Suhail Khan"]
+authors: ["Manisha Nayak"]
 tags: ["Relationship"]
 draft: false
 ---

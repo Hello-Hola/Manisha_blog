@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Asif's Blog",
+    "title": "Manisha's Blog",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/Asif.svg",
+    "logo": "/images/manisha.svg",
     "logo_width": "250",
-    "logo_height": "60",
-    "logo_text": "Asif's Blog"
+    "logo_height": "34",
+    "logo_text": "Manisha Blog"
   },
 
 
@@ -18,19 +18,19 @@
   },
 
   "metadata": {
-    "meta_author": "Asif Suhail Khan",
+    "meta_author": "Manisha Nayak",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Asif Suhail Khan Portfolio"
+    "meta_description": "Manisha Nyak Portfolio"
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by Asif Suhail Khan"
+    "copyright": "Copyright © 2023 a theme by Manisha Nayak"
   },
 
   "contactinfo": {
     "address": "Bhopal (MP)",
-    "email": "asifsuhailkhan1@gmail.com",
-    "phone": "+91 98899 18105"
+    "email": "manishanayak581999@gmail.com",
+    "phone": "+91 87700 91622"
   }
 }

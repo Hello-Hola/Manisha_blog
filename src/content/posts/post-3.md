@@ -4,7 +4,7 @@ description: "meta description"
 date: 2022-04-02T06:00:00+00:00
 image: "/images/posts/03.jpg"
 categories: ["Climate"]
-authors: ["Asif Suhail Khan"]
+authors: ["Manisha Nayak"]
 tags: ["Climate", "Health"]
 draft: false
 ---

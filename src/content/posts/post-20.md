@@ -6,7 +6,7 @@ description: "Embark on a captivating journey into the future of manufacturing w
 date: 2023-10-13T05:00:00Z
 image: "/images/posts/20.jpg"
 categories: ["artificial intelligence"]
-authors: ["Asif Suhail Khan"]
+authors: ["Manisha Nayak"]
 tags: ["Robotics", "AI"]
 draft: false
 ---

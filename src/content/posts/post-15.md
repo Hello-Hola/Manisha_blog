@@ -6,7 +6,7 @@ description: "Explore the essential aspects of Personal Financial Planning in ou
 date: 2023-10-13T05:00:00Z
 image: "/images/posts/15.jpg"
 categories: ["Finance"]
-authors: ["Asif Suhail Khan"]
+authors: ["Manisha Nayak"]
 tags: ["Finance"]
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: Asif Suhail Khan 
-image: /images/authors/asif-suhail.png
+image: /images/authors/john-doe.jpg
 description: Asif Suhail Khan is your go-to article writer, a wordsmith with a passion for storytelling and a commitment to delivering high-quality content.
 
 

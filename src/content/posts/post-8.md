@@ -4,7 +4,7 @@ description: "meta description"
 date: 2024-04-04T05:00:00Z
 image: "/images/posts/08.jpg"
 categories: ["Space"]
-authors: ["Asif Suhail Khan"]
+authors: ["Manisha Nayak"]
 tags: []
 draft: false
 ---
